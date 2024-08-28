@@ -53,7 +53,7 @@ Para poder seguir la guía de desarrollo del sistema de recomendación de pelíc
 3. **Docker**: Tener Docker y Docker Compose instalados y configurados, ya que se utilizarán para levantar la base de datos y otros servicios necesarios.
 
 ### Pasos para Ejecutar la aplicación
-1. Clonar repositorio e instalar dependencias.
+1. Clonar repositorio `gh repo clone JDCodeWork/recomendaciones-pelicula`.
 2. Renombrar el archivo `.env.template` a `.env`.
 3. Modificar las variables de entorno de acuerdo a las necesidades.
 4. Levantar la base de datos (`docker-compose up -d`).
