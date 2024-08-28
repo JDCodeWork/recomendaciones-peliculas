@@ -60,4 +60,4 @@ Para poder seguir la guía de desarrollo del sistema de recomendación de pelíc
 5. Instalar dependencias (`npm install` o `pnpm install`)
 6. Iniciar la aplicación (`npm start:dev`).
 7. Ejecutar una petición `GET /api/seed` para tener datos de prueba 
-8. Ingresar desde el navegador a la url /api` para la documentación
+8. Ingresar desde el navegador a la url `/api` para la documentación
