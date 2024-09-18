@@ -18,5 +18,5 @@
       ]
     }
   ],
-  "output-directory": "./dist"
+  "outputDirectory": "dist"
 }
